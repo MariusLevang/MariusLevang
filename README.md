@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @MariusLevang
+- Currently studying computer science and writing mostly C and python code, with a hint of assembly and JS.
